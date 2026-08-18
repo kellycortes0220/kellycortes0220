@@ -1,7 +1,7 @@
 ## Hi, I'm Kelly Cortes Ortega 👋
 ##About me-currently taking CSC-134 and getting ready to learn C++!
 ##My Foo (special interest) I love researching and looking at jellyfishes!
-##Currently learning- C++
+##Currently learning- C++!
 ##Fun fact- I love the horror genre and I especially love horror visual novel games.
 ##Find me- Right here on GitHub!
 <!--
